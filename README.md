@@ -1,1 +1,1 @@
-# Python_Beginner_Mini_Projects
+# Python_Beginner_to_Advanced_Projects
